@@ -1,3 +1,3 @@
-# Tekwill_FE_GR11
-
+# Tekwill-academy
+Этот проект является примером
 ## New Line
