@@ -15,23 +15,16 @@
 
 Чтобы узнать больше о синтаксисе Markdown, вы можете обратится к следующим ссылкам:
 
-<ul>
-  <li>[Официальная страница Markdown](https://www.markdownguide.org)</li>
+  * [Официальная страница Markdown](https://www.markdownguide.org)
 
-  <li>Основной синтаксис Markdown(https://www.markdownguide.org/cheat-sheet/)</li>
-</ul>
+  * [Основной синтаксис Markdown](https://www.markdownguide.org/cheat-sheet/) 
 
-  Чтобы узнать больше о синтаксисе Markdown, вы можете обратиться к следующим ссылкам:
+Чтобы узнать больше о синтаксисе Markdown, вы можете обратиться к следующим ссылкам:
 
-<ul>
-  <li>[Официальная страница Markdown](https://www.markdownguide.org)</li>
+  * [Официальная страница Markdown](https://www.markdownguide.org)
 
-  <li>Основной синтаксис Markdown(https://www.markdownguide.org/cheat-sheet/)</li>
-</ul>  
+  * [Основной синтаксис Markdown](https://www.markdownguide.org/cheat-sheet/) 
 
-  Кроме того, вы можете найти более подробный список функций синтаксиса Markdown по адресу:
+Кроме того, вы можете найти более подробный список функций синтаксиса Markdown по адресу:
 
-<ul>
-  <li>[Полное руководство по синтаксису Markdown](https://www.markdownguide.org/basic-syntax/)</li>
-
-</ul>
+  * [Полное руководство по синтаксису Markdown](https://www.markdownguide.org/basic-syntax/)
